@@ -25,7 +25,7 @@ SECRET_KEY = 'gmd4ckvovvc4f+lihyl6xlxc3b&%9_!kj80*62$q)0m*5&p0ga'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'demoshop.agmon.ru' ]
 
 
 # Application definition
